@@ -1,0 +1,12 @@
+---
+title: list example
+layout: default.hbs
+---
+
+<h2>Led Zeppelin</h2>
+<dl>
+    {{#each ledzeppelin}}
+        <dt>{{name}}</dt>
+        <dd>{{part}}</dd>
+    {{/each}}
+</dl>

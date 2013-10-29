@@ -1,0 +1,11 @@
+{
+  "name": "assemble-example",
+  "version": "0.0.1",
+  "description": "assemble example",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "assemble": "~0.4.17",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
